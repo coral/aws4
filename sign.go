@@ -11,7 +11,7 @@ import (
 	"io/ioutil"
 	"net/http"
 	"net/url"
-	"path/filepath"
+	filepath "path"
 	"sort"
 	"strings"
 	"time"
